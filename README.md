@@ -7,6 +7,8 @@ Digital Breakthrough 2020 final project
 - Front: React, Bootstrap, SCSS
 - Back: Node JS, Express JS, Mongoose
 
+## Requires NODE JS and GIT for the application and scripts to work
+
 ## Available Scripts
 
 ### `npm install`
